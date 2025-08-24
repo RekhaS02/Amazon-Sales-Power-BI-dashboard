@@ -4,7 +4,7 @@
 This repository contains the Power BI artifact and documentation for the Amazon Sales dashboard. It is designed to help stakeholders explore key sales metrics, trends, and insights.
 
 ## Project title
-Amazon USA Sales Power BI Dashboard
+Amazon Sales Power BI Dashboard
 
 ## Brief description
 - Power BI Desktop report (.pbix) that analyzes Amazon sales data.
